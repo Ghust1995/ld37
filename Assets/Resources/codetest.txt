@@ -1,0 +1,12 @@
+cmp scan r
+jnf 7
+cmp scan
+jf 2
+nop
+nop
+jump
+cmp scan g
+jnf 0
+cmp scan
+jf 9
+turn
